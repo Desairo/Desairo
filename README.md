@@ -4,8 +4,6 @@
 </p>
 
 
-<h3 align="center">🔹 Embedded Systems | Edge AI | Control Systems Enthusiast 🔹</h3>
-
 ---
 
 ### 🌟 About Me
@@ -61,7 +59,7 @@ From stabilizing a quadrotor in Simulink to building IoT-based soil health devic
 
 ### 📚 STM32 User Guide (Ongoing)
 > A beginner-friendly GitHub guide for **STM32 microcontrollers**  
-> Includes setup tutorials, HAL/LL examples, and hands-on projects  
+> Includes setup tutorials, examples, and hands-on projects  
 📂 *Coming soon on GitHub...*
 
 ---
