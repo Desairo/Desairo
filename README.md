@@ -60,7 +60,7 @@ From stabilizing a quadrotor in Simulink to building IoT-based soil health devic
 ### 📚 STM32 User Guide (Ongoing)
 > A beginner-friendly GitHub guide for **STM32 microcontrollers**  
 > Includes setup tutorials, examples, and hands-on projects  
-📂 *Coming soon on GitHub...*
+📂 *Work in progress....*
 
 ---
 
