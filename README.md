@@ -1,5 +1,8 @@
 <!-- Profile Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a73e8,100:00c6ff&height=200&section=header&text=Hey%20👋%20I'm%20[Rohan Sagar Desai]!&fontSize=35&fontColor=ffffff&fontAlignY=35" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a73e8,100:00c6ff&height=230&section=header&text=Hey%20👋%20I'm%20Rohan%20Sagar%20Desai!&fontSize=38&fontColor=ffffff&fontAlignY=35&desc=Embedded%20Systems%20|%20Edge%20AI%20|%20Control%20Systems&descAlignY=55&descAlign=50" alt="Rohan Sagar Desai Header"/>
+</p>
+
 
 <h3 align="center">🔹 Embedded Systems | Edge AI | Control Systems Enthusiast 🔹</h3>
 
